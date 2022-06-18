@@ -24,7 +24,7 @@
                         <span class="h-20px border-gray-200 border-start ms-3 mx-2"></span>
                         <!--end::Separator-->
                         <!--begin::Description-->
-                        <small class=" fs-3 fw-bold my-1 ms-1" style="color: #5482d5">المنتجات</small>
+                        <small class=" fs-3 fw-bold my-1 ms-1" style="color: #5482d5">المشرفين</small>
                         <!--end::Description-->
                     </h1>
                     <!--end::Title-->
