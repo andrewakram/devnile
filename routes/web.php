@@ -24,7 +24,7 @@ Route::get('cache', function () {
 });
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect(route('admin.home'));
 });
 Route::group([
     'prefix' => 'admin',
